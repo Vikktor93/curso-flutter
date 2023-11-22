@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge">
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-<img src="../assets/cursoflutter.png"/>
+<img src="./assets/cursoflutter.png"/>
 
 # AppCat (¡App para Empezar en el Mundo de Flutter!)
 
